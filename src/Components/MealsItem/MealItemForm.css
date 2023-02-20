@@ -1,0 +1,18 @@
+.form{
+    text-align: right;
+}
+.form input{
+    padding: 0 10px;
+}
+.form button{
+padding: 0.25rem 2rem;
+border-radius: 20px;
+background-color: #8a2b06;
+border: 1px solid #fae5dc;
+}
+.form button:hover
+,.form button:active
+{
+    background-color: rgb(236, 175, 175);
+    border: #f7e1d8;
+}
